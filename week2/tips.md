@@ -21,7 +21,8 @@
 - 与约束曲线垂直的另一种说法就是说，梯度落在了约束曲线的法空间内部，而对于约束条件hi=0来说，约束曲线的法空间就是由∇hi张成的那个空间。
 
 - 也就是说==如果约束条件写成hi=0的话，那么在这个极值点处，虽然∇f不一定是0向量，但是总存在λi使得==
-     
+<img src="http://www.forkosh.com/mathtex.cgi? \Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}">
+    
 ```math
 \nabla f+ \sum_{i=1}^p \lambda_i \nabla h_i= 0
 ```
