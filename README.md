@@ -1,6 +1,6 @@
 # arts
 
-ARTS - 左耳听风群的每周必做
+ARTS 
 
 Algorithm  每周至少刷一道leetcode的算法题
 
